@@ -15,9 +15,10 @@ A simple and child-friendly **Android TV Launcher** designed for kids. It provid
 
 ## 📸 Screenshots  
 
-| Home Screen |Exit PIN Lock |
-|------------|--------------|--------------|
-(https://github.com/user-attachments/assets/c999f7c2-7f0f-46d4-91bf-dd1a2afccb47)
+
+![kids_tv_home](https://github.com/user-attachments/assets/d29a543b-c147-4fc7-a3b9-ee0f77dd05c8)
+![kidstv_lock](https://github.com/user-attachments/assets/1d230937-a0b6-459f-a040-4eda2f8abd89)
+
 
 
 ---
