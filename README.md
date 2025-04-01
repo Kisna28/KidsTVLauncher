@@ -17,7 +17,8 @@ A simple and child-friendly **Android TV Launcher** designed for kids. It provid
 
 | Home Screen |Exit PIN Lock |
 |------------|--------------|--------------|
-| ![Home Screen](D:\Chrome\kids_tv_home) | ![Exit PIN Lock](D:\Chrome\kidstv_lock) |
+(https://github.com/user-attachments/assets/c999f7c2-7f0f-46d4-91bf-dd1a2afccb47)
+
 
 ---
 
